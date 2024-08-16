@@ -7,10 +7,10 @@ In this repository, I have included a few projects from my time in college. Pyth
 
 If you would like to see examples of my coursework, please email me at treywhitehead@college.harvard.edu for access to my private repository. 
 
-My relevant coursework in Applied Math and Computer Science Includes:
+**My relevant coursework in Applied Math and Computer Science Includes:**
 
 2021 Fall - COMPSCI50: Introduction to Computer Science
-- Final Project: https://www.youtube.com/embed/88mTCh7DDKE?autoplay=1&rel=0
+- *Final Project: https://www.youtube.com/embed/88mTCh7DDKE?autoplay=1&rel=0*
   
 2021 Fall - MATH22A: Vector Calculus and Linear Algebra I
 
@@ -37,6 +37,6 @@ My relevant coursework in Applied Math and Computer Science Includes:
 
 2024 Fall - COMPSCI109A: Introduction to Data Science
 
-2024 Fall - ES155: Systems and Control 
+2024 Fall - ES155: Systems and Control
 
 
