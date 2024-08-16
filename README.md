@@ -15,6 +15,7 @@ If you would like to see examples of my coursework, please email me at treywhite
 2021 Fall - MATH22A: Vector Calculus and Linear Algebra I
 
 2022 Spring - MATH21A: Multivariable Calculus
+
 2022 Spring - PHYSICS15A: Introductory Mechanics and Relativity
 
 2022 Fall - APMTH104: Complex and Fourier Analysis with Applications to Art, Science, and Engineering
