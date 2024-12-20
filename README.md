@@ -4,7 +4,7 @@ My name is Trey Whitehead, and I am a senior at Harvard University studying Appl
 I am a ROTC cadet, and upon graduation, I will commission as an Operations Research Analyst into the United States Air Force.
 I have received an opportunity to pursue graduate studies as one of nine recipients nationwide of the Air Force ROTC Strategic Scholars Program scholarship. 
 
-In this repository, I have included a few projects from my time in college. Python is my language of choice, but I have experience in Mathematica, C, MATLAB, SQL, JavaScript, AMPL, Mathematica, and a few others.  
+In this repository, I have included a few projects from my time in college. Python is my language of choice, but I have experience in Mathematica, C, MATLAB, SQL, JavaScript, AMPL, Mathematica, and a few others. Please reference the AM115 and CS1090A project folders for my most recent coursework. 
 
 If you would like to see examples of my coursework, please email me at treywhitehead@college.harvard.edu for access to my private repository. 
 
