@@ -38,6 +38,7 @@ If you would like to see examples of my coursework, please email me at treywhite
 2024 Spring - COMPSCI128: Convex Optimization with Applications in Machine Learning
 
 2024 Fall - COMPSCI1090A: Introduction to Data Science
+- *Final Project: [https://www.youtube.com/embed/88mTCh7DDKE?autoplay=1&rel=0](https://www.youtube.com/watch?v=fy70C9ruBbU)*
 
 2024 Fall - ES155: Systems and Control
 
