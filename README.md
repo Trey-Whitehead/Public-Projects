@@ -43,7 +43,8 @@ If you would like to see examples of my coursework, please email me at treywhite
 
 2024 Fall - ES155: Systems and Control
 
-2025 Spring - COMPSCI1090B: Advanced Topics in Data Science 
+2025 Spring - COMPSCI1090B: Advanced Topics in Data Science
+- *Final Project: [https://www.youtube.com/watch?v=tvTVDqFa6S8]*
 
 2025 Spring - COMPSCI1037: Incentives in the Wild: from Tanking in Sports to Mining Cryptocurrencies
 
